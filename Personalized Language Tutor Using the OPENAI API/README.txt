@@ -1,0 +1,8 @@
+You will leverage OpenAI's API to build a dynamic, AI-powered language learning assistant. This project focuses on implementing key features that enhance the user's language skills.
+
+The project will provide sample audio data (data/sample.wav) and utilize OpenAI's speech-to-text model to transcribe the audio into text. Furthermore, using OpenAI's gpt-4o-mini model will enable the translation of the text into target languages, facilitating seamless cross-lingual communication. The Grammar Check feature will detect and suggest corrections for grammatical errors in user-generated text, helping users refine their writing skills through AI-driven feedback. Finally, Pronunciation Feedback will evaluate users' spoken language and provide personalized improvement suggestions, assisting them in mastering proper pronunciation.
+
+By integrating these features using OpenAI's API, the Personalized Language Tutor will offer comprehensive, AI-enhanced features to support language learners. Your challenge is implementing these tools seamlessly, creating a user-friendly experience that harnesses AI's potential to transform language learning.
+
+The data
+There is one audio file named sample.wav. This audio file contains Harvard sentences. These sentences are phonetically balanced, meaning they use specific phonemes at the same frequency they appear in English, and they are designed to cover a wide range of sounds and contexts. An example of a Harvard sentence is: "The stale smell of old beer lingers."
